@@ -1,0 +1,51 @@
+/*
+*{
+    border: 1px dashed red;
+    min-height: 10px;
+}
+*/
+body{
+    background: black;
+}
+.POST{
+    background: white;
+    width: 500px;
+    margin: 0 auto;
+}
+img{
+    width: 500px;
+    height: auto;
+}
+
+.iconos{
+    display: flex;
+    justify-content: space-between;
+}
+.nombre p{
+    font-size: xx-small;
+}
+h6, p{
+    margin: 0;
+}
+.POST-HEADER{
+    display: flex;
+    justify-content: space-between;
+}
+.post-header-iz{
+    display: flex;
+}
+.logo{
+    padding: 5px;
+}
+.puntos{
+    padding: 5px;
+}
+.likes{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.POST-BODY{
+    margin-right: 1%;
+}
+
+
